@@ -1,0 +1,14 @@
+body{
+  background-color: plum;
+}
+
+h1{
+  color:olivedrab;
+}
+
+.myCanvas{
+ border-radius: 20px;
+ border: width 20px;
+ border-color: blueviolet;
+ background-color:palegreen;
+}
